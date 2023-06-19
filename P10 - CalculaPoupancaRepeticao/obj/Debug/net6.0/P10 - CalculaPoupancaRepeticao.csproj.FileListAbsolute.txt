@@ -1,0 +1,15 @@
+C:\Alura C#\AprendendoCSharp\P10 - CalculaPoupancaRepeticao\bin\Debug\net6.0\P10 - CalculaPoupancaRepeticao.exe
+C:\Alura C#\AprendendoCSharp\P10 - CalculaPoupancaRepeticao\bin\Debug\net6.0\P10 - CalculaPoupancaRepeticao.deps.json
+C:\Alura C#\AprendendoCSharp\P10 - CalculaPoupancaRepeticao\bin\Debug\net6.0\P10 - CalculaPoupancaRepeticao.runtimeconfig.json
+C:\Alura C#\AprendendoCSharp\P10 - CalculaPoupancaRepeticao\bin\Debug\net6.0\P10 - CalculaPoupancaRepeticao.dll
+C:\Alura C#\AprendendoCSharp\P10 - CalculaPoupancaRepeticao\bin\Debug\net6.0\P10 - CalculaPoupancaRepeticao.pdb
+C:\Alura C#\AprendendoCSharp\P10 - CalculaPoupancaRepeticao\obj\Debug\net6.0\P10 - CalculaPoupancaRepeticao.csproj.AssemblyReference.cache
+C:\Alura C#\AprendendoCSharp\P10 - CalculaPoupancaRepeticao\obj\Debug\net6.0\P10 - CalculaPoupancaRepeticao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Alura C#\AprendendoCSharp\P10 - CalculaPoupancaRepeticao\obj\Debug\net6.0\P10 - CalculaPoupancaRepeticao.AssemblyInfoInputs.cache
+C:\Alura C#\AprendendoCSharp\P10 - CalculaPoupancaRepeticao\obj\Debug\net6.0\P10 - CalculaPoupancaRepeticao.AssemblyInfo.cs
+C:\Alura C#\AprendendoCSharp\P10 - CalculaPoupancaRepeticao\obj\Debug\net6.0\P10 - CalculaPoupancaRepeticao.csproj.CoreCompileInputs.cache
+C:\Alura C#\AprendendoCSharp\P10 - CalculaPoupancaRepeticao\obj\Debug\net6.0\P10 - CalculaPoupancaRepeticao.dll
+C:\Alura C#\AprendendoCSharp\P10 - CalculaPoupancaRepeticao\obj\Debug\net6.0\refint\P10 - CalculaPoupancaRepeticao.dll
+C:\Alura C#\AprendendoCSharp\P10 - CalculaPoupancaRepeticao\obj\Debug\net6.0\P10 - CalculaPoupancaRepeticao.pdb
+C:\Alura C#\AprendendoCSharp\P10 - CalculaPoupancaRepeticao\obj\Debug\net6.0\P10 - CalculaPoupancaRepeticao.genruntimeconfig.cache
+C:\Alura C#\AprendendoCSharp\P10 - CalculaPoupancaRepeticao\obj\Debug\net6.0\ref\P10 - CalculaPoupancaRepeticao.dll

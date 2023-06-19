@@ -1,0 +1,15 @@
+C:\Alura C#\AprendendoCSharp\8 - CondicionaisBoolean\bin\Debug\net6.0\8 - CondicionaisBoolean.exe
+C:\Alura C#\AprendendoCSharp\8 - CondicionaisBoolean\bin\Debug\net6.0\8 - CondicionaisBoolean.deps.json
+C:\Alura C#\AprendendoCSharp\8 - CondicionaisBoolean\bin\Debug\net6.0\8 - CondicionaisBoolean.runtimeconfig.json
+C:\Alura C#\AprendendoCSharp\8 - CondicionaisBoolean\bin\Debug\net6.0\8 - CondicionaisBoolean.dll
+C:\Alura C#\AprendendoCSharp\8 - CondicionaisBoolean\bin\Debug\net6.0\8 - CondicionaisBoolean.pdb
+C:\Alura C#\AprendendoCSharp\8 - CondicionaisBoolean\obj\Debug\net6.0\8 - CondicionaisBoolean.csproj.AssemblyReference.cache
+C:\Alura C#\AprendendoCSharp\8 - CondicionaisBoolean\obj\Debug\net6.0\8 - CondicionaisBoolean.GeneratedMSBuildEditorConfig.editorconfig
+C:\Alura C#\AprendendoCSharp\8 - CondicionaisBoolean\obj\Debug\net6.0\8 - CondicionaisBoolean.AssemblyInfoInputs.cache
+C:\Alura C#\AprendendoCSharp\8 - CondicionaisBoolean\obj\Debug\net6.0\8 - CondicionaisBoolean.AssemblyInfo.cs
+C:\Alura C#\AprendendoCSharp\8 - CondicionaisBoolean\obj\Debug\net6.0\8 - CondicionaisBoolean.csproj.CoreCompileInputs.cache
+C:\Alura C#\AprendendoCSharp\8 - CondicionaisBoolean\obj\Debug\net6.0\8 - CondicionaisBoolean.dll
+C:\Alura C#\AprendendoCSharp\8 - CondicionaisBoolean\obj\Debug\net6.0\refint\8 - CondicionaisBoolean.dll
+C:\Alura C#\AprendendoCSharp\8 - CondicionaisBoolean\obj\Debug\net6.0\8 - CondicionaisBoolean.pdb
+C:\Alura C#\AprendendoCSharp\8 - CondicionaisBoolean\obj\Debug\net6.0\8 - CondicionaisBoolean.genruntimeconfig.cache
+C:\Alura C#\AprendendoCSharp\8 - CondicionaisBoolean\obj\Debug\net6.0\ref\8 - CondicionaisBoolean.dll

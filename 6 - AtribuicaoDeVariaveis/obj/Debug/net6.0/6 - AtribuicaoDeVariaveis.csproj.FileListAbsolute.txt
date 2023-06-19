@@ -1,0 +1,15 @@
+C:\Alura C#\AprendendoCSharp\6 - AtribuicaoDeVariaveis\bin\Debug\net6.0\6 - AtribuicaoDeVariaveis.exe
+C:\Alura C#\AprendendoCSharp\6 - AtribuicaoDeVariaveis\bin\Debug\net6.0\6 - AtribuicaoDeVariaveis.deps.json
+C:\Alura C#\AprendendoCSharp\6 - AtribuicaoDeVariaveis\bin\Debug\net6.0\6 - AtribuicaoDeVariaveis.runtimeconfig.json
+C:\Alura C#\AprendendoCSharp\6 - AtribuicaoDeVariaveis\bin\Debug\net6.0\6 - AtribuicaoDeVariaveis.dll
+C:\Alura C#\AprendendoCSharp\6 - AtribuicaoDeVariaveis\bin\Debug\net6.0\6 - AtribuicaoDeVariaveis.pdb
+C:\Alura C#\AprendendoCSharp\6 - AtribuicaoDeVariaveis\obj\Debug\net6.0\6 - AtribuicaoDeVariaveis.csproj.AssemblyReference.cache
+C:\Alura C#\AprendendoCSharp\6 - AtribuicaoDeVariaveis\obj\Debug\net6.0\6 - AtribuicaoDeVariaveis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Alura C#\AprendendoCSharp\6 - AtribuicaoDeVariaveis\obj\Debug\net6.0\6 - AtribuicaoDeVariaveis.AssemblyInfoInputs.cache
+C:\Alura C#\AprendendoCSharp\6 - AtribuicaoDeVariaveis\obj\Debug\net6.0\6 - AtribuicaoDeVariaveis.AssemblyInfo.cs
+C:\Alura C#\AprendendoCSharp\6 - AtribuicaoDeVariaveis\obj\Debug\net6.0\6 - AtribuicaoDeVariaveis.csproj.CoreCompileInputs.cache
+C:\Alura C#\AprendendoCSharp\6 - AtribuicaoDeVariaveis\obj\Debug\net6.0\6 - AtribuicaoDeVariaveis.dll
+C:\Alura C#\AprendendoCSharp\6 - AtribuicaoDeVariaveis\obj\Debug\net6.0\refint\6 - AtribuicaoDeVariaveis.dll
+C:\Alura C#\AprendendoCSharp\6 - AtribuicaoDeVariaveis\obj\Debug\net6.0\6 - AtribuicaoDeVariaveis.pdb
+C:\Alura C#\AprendendoCSharp\6 - AtribuicaoDeVariaveis\obj\Debug\net6.0\6 - AtribuicaoDeVariaveis.genruntimeconfig.cache
+C:\Alura C#\AprendendoCSharp\6 - AtribuicaoDeVariaveis\obj\Debug\net6.0\ref\6 - AtribuicaoDeVariaveis.dll

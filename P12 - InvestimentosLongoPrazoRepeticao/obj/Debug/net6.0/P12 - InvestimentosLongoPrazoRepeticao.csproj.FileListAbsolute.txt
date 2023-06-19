@@ -1,0 +1,15 @@
+C:\Alura C#\AprendendoCSharp\P12 - InvestimentosLongoPrazoRepeticao\bin\Debug\net6.0\P12 - InvestimentosLongoPrazoRepeticao.exe
+C:\Alura C#\AprendendoCSharp\P12 - InvestimentosLongoPrazoRepeticao\bin\Debug\net6.0\P12 - InvestimentosLongoPrazoRepeticao.deps.json
+C:\Alura C#\AprendendoCSharp\P12 - InvestimentosLongoPrazoRepeticao\bin\Debug\net6.0\P12 - InvestimentosLongoPrazoRepeticao.runtimeconfig.json
+C:\Alura C#\AprendendoCSharp\P12 - InvestimentosLongoPrazoRepeticao\bin\Debug\net6.0\P12 - InvestimentosLongoPrazoRepeticao.dll
+C:\Alura C#\AprendendoCSharp\P12 - InvestimentosLongoPrazoRepeticao\bin\Debug\net6.0\P12 - InvestimentosLongoPrazoRepeticao.pdb
+C:\Alura C#\AprendendoCSharp\P12 - InvestimentosLongoPrazoRepeticao\obj\Debug\net6.0\P12 - InvestimentosLongoPrazoRepeticao.csproj.AssemblyReference.cache
+C:\Alura C#\AprendendoCSharp\P12 - InvestimentosLongoPrazoRepeticao\obj\Debug\net6.0\P12 - InvestimentosLongoPrazoRepeticao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Alura C#\AprendendoCSharp\P12 - InvestimentosLongoPrazoRepeticao\obj\Debug\net6.0\P12 - InvestimentosLongoPrazoRepeticao.AssemblyInfoInputs.cache
+C:\Alura C#\AprendendoCSharp\P12 - InvestimentosLongoPrazoRepeticao\obj\Debug\net6.0\P12 - InvestimentosLongoPrazoRepeticao.AssemblyInfo.cs
+C:\Alura C#\AprendendoCSharp\P12 - InvestimentosLongoPrazoRepeticao\obj\Debug\net6.0\P12 - InvestimentosLongoPrazoRepeticao.csproj.CoreCompileInputs.cache
+C:\Alura C#\AprendendoCSharp\P12 - InvestimentosLongoPrazoRepeticao\obj\Debug\net6.0\P12 - InvestimentosLongoPrazoRepeticao.dll
+C:\Alura C#\AprendendoCSharp\P12 - InvestimentosLongoPrazoRepeticao\obj\Debug\net6.0\refint\P12 - InvestimentosLongoPrazoRepeticao.dll
+C:\Alura C#\AprendendoCSharp\P12 - InvestimentosLongoPrazoRepeticao\obj\Debug\net6.0\P12 - InvestimentosLongoPrazoRepeticao.pdb
+C:\Alura C#\AprendendoCSharp\P12 - InvestimentosLongoPrazoRepeticao\obj\Debug\net6.0\P12 - InvestimentosLongoPrazoRepeticao.genruntimeconfig.cache
+C:\Alura C#\AprendendoCSharp\P12 - InvestimentosLongoPrazoRepeticao\obj\Debug\net6.0\ref\P12 - InvestimentosLongoPrazoRepeticao.dll

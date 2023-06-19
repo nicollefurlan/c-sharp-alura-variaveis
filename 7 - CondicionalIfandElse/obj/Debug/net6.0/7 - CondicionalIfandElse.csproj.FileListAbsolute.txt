@@ -1,0 +1,15 @@
+C:\Alura C#\AprendendoCSharp\7 - CondicionalIfandElse\bin\Debug\net6.0\7 - CondicionalIfandElse.exe
+C:\Alura C#\AprendendoCSharp\7 - CondicionalIfandElse\bin\Debug\net6.0\7 - CondicionalIfandElse.deps.json
+C:\Alura C#\AprendendoCSharp\7 - CondicionalIfandElse\bin\Debug\net6.0\7 - CondicionalIfandElse.runtimeconfig.json
+C:\Alura C#\AprendendoCSharp\7 - CondicionalIfandElse\bin\Debug\net6.0\7 - CondicionalIfandElse.dll
+C:\Alura C#\AprendendoCSharp\7 - CondicionalIfandElse\bin\Debug\net6.0\7 - CondicionalIfandElse.pdb
+C:\Alura C#\AprendendoCSharp\7 - CondicionalIfandElse\obj\Debug\net6.0\7 - CondicionalIfandElse.csproj.AssemblyReference.cache
+C:\Alura C#\AprendendoCSharp\7 - CondicionalIfandElse\obj\Debug\net6.0\7 - CondicionalIfandElse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Alura C#\AprendendoCSharp\7 - CondicionalIfandElse\obj\Debug\net6.0\7 - CondicionalIfandElse.AssemblyInfoInputs.cache
+C:\Alura C#\AprendendoCSharp\7 - CondicionalIfandElse\obj\Debug\net6.0\7 - CondicionalIfandElse.AssemblyInfo.cs
+C:\Alura C#\AprendendoCSharp\7 - CondicionalIfandElse\obj\Debug\net6.0\7 - CondicionalIfandElse.csproj.CoreCompileInputs.cache
+C:\Alura C#\AprendendoCSharp\7 - CondicionalIfandElse\obj\Debug\net6.0\7 - CondicionalIfandElse.dll
+C:\Alura C#\AprendendoCSharp\7 - CondicionalIfandElse\obj\Debug\net6.0\refint\7 - CondicionalIfandElse.dll
+C:\Alura C#\AprendendoCSharp\7 - CondicionalIfandElse\obj\Debug\net6.0\7 - CondicionalIfandElse.pdb
+C:\Alura C#\AprendendoCSharp\7 - CondicionalIfandElse\obj\Debug\net6.0\7 - CondicionalIfandElse.genruntimeconfig.cache
+C:\Alura C#\AprendendoCSharp\7 - CondicionalIfandElse\obj\Debug\net6.0\ref\7 - CondicionalIfandElse.dll

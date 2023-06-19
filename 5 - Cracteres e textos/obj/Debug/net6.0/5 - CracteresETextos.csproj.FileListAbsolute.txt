@@ -1,0 +1,15 @@
+C:\Alura C#\AprendendoCSharp\5 - Cracteres e textos\bin\Debug\net6.0\5 - CracteresETextos.exe
+C:\Alura C#\AprendendoCSharp\5 - Cracteres e textos\bin\Debug\net6.0\5 - CracteresETextos.deps.json
+C:\Alura C#\AprendendoCSharp\5 - Cracteres e textos\bin\Debug\net6.0\5 - CracteresETextos.runtimeconfig.json
+C:\Alura C#\AprendendoCSharp\5 - Cracteres e textos\bin\Debug\net6.0\5 - CracteresETextos.dll
+C:\Alura C#\AprendendoCSharp\5 - Cracteres e textos\bin\Debug\net6.0\5 - CracteresETextos.pdb
+C:\Alura C#\AprendendoCSharp\5 - Cracteres e textos\obj\Debug\net6.0\5 - CracteresETextos.csproj.AssemblyReference.cache
+C:\Alura C#\AprendendoCSharp\5 - Cracteres e textos\obj\Debug\net6.0\5 - CracteresETextos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Alura C#\AprendendoCSharp\5 - Cracteres e textos\obj\Debug\net6.0\5 - CracteresETextos.AssemblyInfoInputs.cache
+C:\Alura C#\AprendendoCSharp\5 - Cracteres e textos\obj\Debug\net6.0\5 - CracteresETextos.AssemblyInfo.cs
+C:\Alura C#\AprendendoCSharp\5 - Cracteres e textos\obj\Debug\net6.0\5 - CracteresETextos.csproj.CoreCompileInputs.cache
+C:\Alura C#\AprendendoCSharp\5 - Cracteres e textos\obj\Debug\net6.0\5 - CracteresETextos.dll
+C:\Alura C#\AprendendoCSharp\5 - Cracteres e textos\obj\Debug\net6.0\refint\5 - CracteresETextos.dll
+C:\Alura C#\AprendendoCSharp\5 - Cracteres e textos\obj\Debug\net6.0\5 - CracteresETextos.pdb
+C:\Alura C#\AprendendoCSharp\5 - Cracteres e textos\obj\Debug\net6.0\5 - CracteresETextos.genruntimeconfig.cache
+C:\Alura C#\AprendendoCSharp\5 - Cracteres e textos\obj\Debug\net6.0\ref\5 - CracteresETextos.dll
